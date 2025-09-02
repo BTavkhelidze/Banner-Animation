@@ -6,7 +6,7 @@ The animation was designed to be smooth, responsive, and continuously looping wi
 ---
 
 ## 🎥 Demo
- [Live Preview](https://your-deployed-link.com)  
+ [Live Preview]((https://banner-animation.vercel.app/))  
  [Project Repository]((https://github.com/BTavkhelidze/Banner-Animation/))
 
 ---
@@ -28,7 +28,7 @@ The animation was designed to be smooth, responsive, and continuously looping wi
 ---
 
 ## 📸 Preview
-![Banner Screenshot](/images/mcdonald-banner.png)
+![Banner Screenshot](/img/composition.jpg)
 
 ---
 
